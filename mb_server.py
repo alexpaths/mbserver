@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # In a YouTube video, Julian OH8STN proposed extending JS8Call to support microblogging; the creation
 # blog posts which can be retrieved using JS8Call - see https://youtu.be/szZlPL2h534
 

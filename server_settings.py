@@ -22,7 +22,7 @@ current_log_level = 1  # normal logging
 # current_log_level = 3  # debug level logging
 # current_log_level = 4  # verbose debug level logging
 
-posts_dir = 'C:\\Development\\microblog\\posts\\'  # location of the microblog posts
+posts_dir = 'posts/'  # location of the microblog posts
 lst_limit = 5
 replace_nl = False  # if True, \n characters in a post will be replaced with a space character
 
